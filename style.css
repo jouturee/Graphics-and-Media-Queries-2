@@ -1,0 +1,30 @@
+svg{
+  background-color:#de8af5;
+}
+
+circle{
+  fill:#f55347;
+  stroke:#a3c799;
+  stroke-width: 5px;
+}
+
+body{
+  background: #7ebfe7 url("https://bit.ly/3h2VSOf") 40%  no-repeat ;
+  height: 100vh; /* viewport height */
+  
+}
+
+@media only screen and (max-width: 600px) { 
+  body{
+    background-color: #ffb8bb;
+    color:navy;
+  }
+
+  h1{
+    border:solid #f4f4ae 5px;
+  }
+
+  
+
+
+}
